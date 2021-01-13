@@ -2,6 +2,6 @@
 To run the project 
 1) npm install 
 2) start the metro server
-    npm start
+    <h1>npm start</h1>
 3) to run on android device 
-    npx react-native run-android
+    <h1> npx react-native run-android </h1>

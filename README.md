@@ -1,4 +1,4 @@
-# Phone-Pad
+# Interview-Demo
 To run the project 
 1) npm install 
 2) start the metro server
